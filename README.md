@@ -29,7 +29,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🧠 What I do
+<!--## 🧠 What I do
 
 -   🏗️ SaaS & High-scale systems
 -   ⚡ Performance optimization
@@ -42,7 +42,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🛠️ Tech Stack
+<!--## 🛠️ Tech Stack
 
 ### Frontend
 
